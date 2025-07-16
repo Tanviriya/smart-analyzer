@@ -1,4 +1,4 @@
- # SMART ANALYZER
+  # SMART ANALYZER
 
 *COMPANY*:SNESTRON SYSTEMS PRIVATE LIMITED
 
@@ -10,9 +10,14 @@
 
 *DURATION*: 6 WEEKS
 
-*MENTOR*:  NEELA SANTOSH
-
 #OUTPUT
+
+<img width="600" height="400" alt="GPA_histogram" src="https://github.com/user-attachments/assets/bb168434-aff2-4734-91ae-0b1294ae473c" />
+<img width="700" height="400" alt="regression_plot" src="https://github.com/user-attachments/assets/a91d6fb7-91cc-46a3-90e8-bc1c2a5bf910" />
+<img width="600" height="400" alt="SAT_histogram" src="https://github.com/user-attachments/assets/578ccaf4-09a3-4067-ab8c-89dc3757f8e8" />
+<img width="1366" height="768" alt="Screenshot 2025-07-16 201832" src="https://github.com/user-attachments/assets/c221340a-0f39-420f-8457-84c474986af2" />
+<img width="1366" height="768" alt="Screenshot 2025-07-16 201905" src="https://github.com/user-attachments/assets/2cc2d72f-0275-4fbb-9ab1-4d254b360b0a" />
+
 
 
 
@@ -54,9 +59,7 @@ This project is developed as part of the Python Programming Internship at **Snes
 2. **Run the script:**
 
 
-3. **Follow prompts** to load the CSV and optionally perform regression.
-
----
+3. **Follow prompts** to load the CSV and optionally perform regression
 
 
 
