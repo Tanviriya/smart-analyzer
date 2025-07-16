@@ -1,7 +1,6 @@
-# smart-analyzer
-# API-INTEGRATION-AND-DATA-VISUALIZATION
+ # SMART ANALYZER
 
-*COMPANY*:CODTECH IT SOLUTIONS
+*COMPANY*:SNESTRON SYSTEMS PRIVATE LIMITED
 
 *NAME*:TANVI
 
@@ -16,45 +15,51 @@
 #OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/49f1e74e-a040-47f3-8016-46d74cf90f41)
+
 
 #DESCRIPITION
-# 🌦️ Task-1: Weather Data Visualization using OpenWeatherMap API
+# 📊 Smart Data Analyzer using Python
 
-## 📌 Overview
-This Python project fetches live weather data from the **OpenWeatherMap API** and visualizes it using **Matplotlib** and **Seaborn**. The goal is to display key weather parameters like temperature and humidity in a clear, visual format.
+This project is developed as part of the Python Programming Internship at **Snestron**. It helps analyze structured CSV datasets using Python by displaying summary statistics, handling missing values, visualizing numeric data, and applying simple linear regression.
 
-## ⚙️ Tools & Libraries
-- Python
-- requests
-- matplotlib
-- seaborn
+---
 
-Install dependencies:
+## 🔧 Features
+
+- Load and inspect any `.csv` file
+- View dataset info and descriptive statistics
+- Detect and report missing values
+- Generate and save histogram plots
+- Perform simple linear regression (e.g., SAT vs GPA)
+- Save regression graph with prediction line
+
+---
+
+## 📂 Files Included
+
+- `smartanalyzer.py` – Main Python script
+- `1.01. Simple linear regression.csv` – Sample dataset
+- `SAT_histogram.png`, `GPA_histogram.png` – Histograms
+- `regression_plot.png` – Linear regression output
+- `README.md` – Project description
+
+---
+
+## ▶️ How to Run
+
+1. **Install dependencies:**
 
 
-## 🚀 How to Run
-1. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api).
-2. Replace `"YOUR_API_KEY"` in the script.
-3. Run the script:
 
-4. Enter a city name to fetch and visualize its weather data.
+2. **Run the script:**
 
-## 📊 Features
-- Fetches live data (temperature, humidity, etc.)
-- Line chart visualization
-- Easy-to-understand code with comments
 
-## 📁 Files Included
-- `weather_visualizer.py`: Main script
-- `README.md`: Project overview
-- `sample_output.png` (optional): Screenshot of the chart
+3. **Follow prompts** to load the CSV and optionally perform regression.
 
-## 👨‍💻 Author
-**TANVI**  
-Intern, CODTECH
+---
 
-> ✅ Task Goal: Use Python to fetch data from a public API and visualize it using Matplotlib/Seaborn.
+
+
 
 
 
